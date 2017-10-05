@@ -16,7 +16,7 @@ html {
 }
 
 .polaroid:hover {
-  transform: rotate(-33deg)
+  transform: rotate(-33deg);
 }
 
 .polaroid > img {
