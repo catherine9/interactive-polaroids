@@ -49,7 +49,7 @@ figure:first-of-type {
 figure:last-of-type {
   transform: rotate(30deg);
   position: absolute;
-  top: 100px;
-  left: 37%;
+  top: 90px;
+  left: 40%;
   z-index: 3;
 }
