@@ -47,9 +47,9 @@ figure:first-of-type {
 }
 
 figure:last-of-type {
-  transform: rotate(10deg);
+  transform: rotate(30deg);
   position: absolute;
   top: 100px;
-  left: 36%;
+  left: 37%;
   z-index: 3;
 }
